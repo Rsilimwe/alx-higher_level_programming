@@ -3,8 +3,6 @@
 # Python program that:
 # demonstrates how to return a set of common elements in two sets
 #
-# (C) 2024 Rodgers Silimwe, Senanga, Zambia.  
-# email silimwerodgers@gmail.com
 # -----------------------------------------------------------
 
 
